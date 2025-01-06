@@ -15,7 +15,7 @@
   <dependency>
       <groupId>io.pingu</groupId>
       <artifactId>luckydrops-api</artifactId>
-      <version>1.13</version>
+      <version>1.14</version>
   </dependency>
 </dependencies>
 ```
